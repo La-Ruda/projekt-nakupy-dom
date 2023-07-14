@@ -1,3 +1,6 @@
+
+console.log("Spirit of this Machine, heed my will!")
+
 import { ShopList } from "./ShopList/index.js";
 
 document
